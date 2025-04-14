@@ -1,50 +1,73 @@
-## Hi I'm hashem :bust_in_silhouette:
+# 👋 Hey, I'm Hashem Tarek
 
+📍 **Location:** Berket El Sabaa, Menofia (Easily Relocatable)  
+📞 **Phone:** +20 101 598 0653  
+📧 **Email:** hashemtarek2012@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hashemtarek) | [GitHub](https://github.com/lamhashemtarek)
 
-- 🎓 Computer Science & Engineering undergraduate
-- 🌱 I’m currently learning node.js
-- :mailbox: You can reach me with the links below
+---
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamhashemtarek)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashemtarek2012@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhashemtarek/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1FA1F1?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/iamhashemtarek)
-[![Stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13945871/hashem-tarek) [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ha4emtarek/) [![codepen](https://img.shields.io/badge/codepen-url-green)](https://codepen.io/hashemtarek)
+## 🚀 About Me
 
-##### Languages I use
+I'm a passionate **Full Stack Developer** skilled in both **.NET** and **Node.js** ecosystems. I specialize in developing scalable, cleanly-architected web applications using **ASP.NET Core**, **Entity Framework**, **Angular**, and **Express.js**.
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+Recently completed an intensive .NET Full Stack development program at **ITI**, where I built real-world projects and gained hands-on experience with industry-standard tools and practices.
 
-<!-- ##### Some of the technologies I have worked with
+---
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) -->
+## 🛠️ Technical Skills
 
-### My Tech Stack
+**Backend:** ASP.NET Core, ASP.NET MVC, ASP.NET Web API, C#, Entity Framework Core, LINQ, Node.js, Express.js  
+**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap  
+**Databases:** Microsoft SQL Server, MongoDB  
+**DevOps & Tools:** Git, GitHub, Docker, CI/CD, Postman, Swagger, Visual Studio, VS Code  
+**Concepts:** Object-Oriented Programming, RESTful API Design, Agile Methodologies
 
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+---
 
+## 📌 Projects
 
+### 📦 [Shipping Management System](https://github.com/Graduation-Squad)
+**Tech:** .NET Core, Angular, Entity Framework, MSSQL  
+- Role-based access control system  
+- 15+ REST APIs with Repository & Unit of Work patterns  
+- Clean architecture with Specification pattern  
+- Responsive UI and robust error handling  
 
+---
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+### 🛒 [E-Commerce Application](https://github.com/iamhashemtarek/E-Commerce)
+**Tech:** ASP.NET Core, Angular, Entity Framework, MSSQL  
+- Full e-commerce platform with authentication and shopping cart  
+- Secure ASP.NET Core Identity implementation  
+- REST APIs with performance-optimized queries  
+- Unit tested critical components  
 
-#### Database
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
+### 🏘️ [AQARE - Real Estate Rental Platform](https://github.com/lamhashemtarek/AQARE)
+**Tech:** Node.js, Express, MySQL, Docker  
+- Comprehensive RESTful API for property rentals  
+- JWT & Passport.js based authentication  
+- Advanced search, favorites, and view tracking  
+- Dockerized with CI/CD and Railway deployment  
 
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+---
+
+## 📚 Additional Activities
+
+- 🎖️ Active IEEE Member: Participated in problem-solving competitions and technical workshops  
+- 📖 Self-taught in JavaScript, Node.js, and Express.js  
+- 👨‍💻 Participated in multiple web development workshops focused on modern frameworks and best practices  
+
+---
+
+## 🌍 Languages
+
+- **Arabic:** Native  
+- **English:** Professional working proficiency  
+
+---
+
+> 💼 Always open for exciting backend and full stack opportunities. Feel free to connect or reach out!
+
