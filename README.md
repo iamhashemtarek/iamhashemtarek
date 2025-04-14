@@ -3,7 +3,7 @@
 📍 **Location:** Berket El Sabaa, Menofia (Easily Relocatable)  
 📞 **Phone:** +20 101 598 0653  
 📧 **Email:** hashemtarek2012@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hashemtarek) | [GitHub](https://github.com/lamhashemtarek)
+🔗 [LinkedIn](https://www.linkedin.com/in/hashemtarek)
 
 ---
 
